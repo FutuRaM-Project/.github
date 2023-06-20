@@ -1,5 +1,5 @@
 # FutuRaM
-[Official website](futuram.eu)
+[Official website](https://www.futuram.eu)
 
 The FutuRaM project seeks to quantify the current and future availability of secondary raw materials
 (SRM) with a focus on critical raw materials (CRM) for six waste streams.
