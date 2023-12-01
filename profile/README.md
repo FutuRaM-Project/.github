@@ -1,7 +1,7 @@
 # FutuRaM
 
-**Most of the repositories in this organisation are private as the work is ongoing. At the end of the project, as much data and code will be made public as is legally permitted.**
-**If you are a FutuRaM stakeholder or consortium member and would like full access, please contact the administrator [Stewart Charles McDowall](s.c.mcdowall@cml.leidenuniv.nl)**
+Most of the repositories in this organisation are private as the work is ongoing. At the end of the project, as much data and code will be made public as is legally permitted.
+If you are a FutuRaM stakeholder or consortium member and would like full access, please contact the administrator [Stewart Charles McDowall](s.c.mcdowall@cml.leidenuniv.nl)
 
 
 [Official website](https://www.futuram.eu)
