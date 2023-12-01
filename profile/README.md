@@ -1,4 +1,9 @@
 # FutuRaM
+
+**Most of the repositories in this organisation are private as the work is ongoing. At the end of the project, as much data and code will be made public as is legally permitted.**
+**If you are a FutuRaM stakeholder or consortium member and would like full access, please contact the administrator [Stewart Charles McDowall](s.c.mcdowall@cml.leidenuniv.nl)**
+
+
 [Official website](https://www.futuram.eu)
 
 FutuRaM will develop the Secondary Raw Materials knowledge base on the availability and recoverability of secondary raw materials (SRMs) within the European Union (EU), with a special focus on critical raw materials (CRMs). The project research will enable fact-based decision making for the recovery and use of SRMs within and outside the EU, and disseminate the data generated via an accessible knowledge base developed in the project.
